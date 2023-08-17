@@ -20,7 +20,7 @@ Index,Name,Emergency,Prescaled,Accept
 18,L1_NotBptxOR,0,0.0,0
 19,L1_ZeroBias,17881,2797.0,2797
 20,L1_ZeroBias_copy,0,0.0,0
-21,L1_TripleMu_5_5_3,0.0,0.0,0.0
+21,L1_TripleMu_5_5_3,0,0.0,0
 23,L1_FirstBunchAfterTrain,0,0.0,0
 24,L1_FirstBunchBeforeTrain,0,0.0,0
 25,L1_FirstBunchInTrain,0,0.0,0
@@ -296,10 +296,10 @@ Index,Name,Emergency,Prescaled,Accept
 423,L1_SingleMu18,0,0.0,0
 424,L1_SingleMu20,0,0.0,0
 425,L1_SingleMu25,0,0.0,0
-432,L1_MuShower_OneTight,0,1.0,1
-433,L1_MuShower_OneNominal,0,1.0,1
-434,L1_MuShower_OneTight_BptxAND,0,1.0,1
-435,L1_MuShower_OneNominal_BptxAND,0,1.0,1
+432,L1_SingleMuShower_Tight,0,0.0,1
+433,L1_SingleMuShower_Nominal,0,0.0,1
+434,L1_SingleMuShower_Tight_BptxAND,0,1.0,1
+435,L1_SingleMuShower_Nominal_BptxAND,0,1.0,1
 436,L1_TripleMu_5_3_3,0,0.0,0
 437,L1_TripleEG_18_17_8_er2p5,0,0.0,0
 456,L1_MinimumBiasHF1_AND_BptxAND,0,1.5,1
@@ -333,9 +333,9 @@ Index,Name,Emergency,Prescaled,Accept
 503,L1_ZDCM1,0,0.0,0
 504,L1_ZDCM256,0,0.0,0
 505,L1_ZDCM512,0,0.0,0
-506,L1_ZDC0_AND,0,0.0,0
+506,L1_ZDC1_AND,0,0.0,0
 507,L1_ZDC256_AND,0,0.0,0
 508,L1_ZDC512_AND,0,0.0,0
-509,L1_ZDC0_OR,0,0.0,0
+509,L1_ZDC1_OR,0,0.0,0
 510,L1_ZDC256_OR,0,0.0,0
 511,L1_ZDC512_OR,0,0.0,0
